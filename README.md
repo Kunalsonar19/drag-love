@@ -1,6 +1,6 @@
 # Love Message 💖
 
-Express your heartfelt affection with this special Love Message Website, dedicated to Sakshi! Designed to convey my love in the most charming way possible, it's a delightful gesture sure to bring a smile to her face. 💌 Let's spread love and joy together! 💞
+Express your heartfelt affection with this special Love Message Website, Designed to convey my love in the most charming way possible, it's a delightful gesture sure to bring a smile to her face. 💌 Let's spread love and joy together! 💞
 
 ## How to Use 🌹
 
@@ -19,8 +19,3 @@ Express your heartfelt affection with this special Love Message Website, dedicat
 ## Sneak Peek 👀
 
 Check out the adorable Love Message Website in action!
-
-## Credits 💖
-
-- Special thanks to Sakshi &hearts; for being the inspiration behind this project!
-- Made with ❤️
